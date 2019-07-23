@@ -34,11 +34,6 @@ public class amazon {
         action.moveToElement(perro).perform();
         Thread.sleep(miliSeconds);
 
-
-
-
-       //articulo = driver.find_element_by_xpath("///div/div[1]/div/div[4]/a[1]/i");
-
         driver.quit();
 
     }
