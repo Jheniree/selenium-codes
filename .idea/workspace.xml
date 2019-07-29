@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d6e7e3c2-4973-4d56-b00f-a8105a1eabce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/amazon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/amazon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/amazon.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,6 +42,8 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="675">
               <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="600">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -191,7 +195,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13339000" />
+    <option name="totallyTimeSpent" value="15403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="979" extended-state="0" />
@@ -231,18 +235,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/amazon.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/jhenitest$amazon.ic" NAME="amazon Coverage Results" MODIFIED="1563798725386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
