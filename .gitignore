@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+!.idea/
+.idea/*
+!.idea/runConfigurations/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.project
+bin/
+
+../target/
+*.classgit
