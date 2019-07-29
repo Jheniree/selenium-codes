@@ -33,7 +33,7 @@ public class amazon {
         Thread.sleep(miliSeconds);
         action.moveToElement(perro).perform();
         Thread.sleep(miliSeconds);
-
+//Buscar info de thread.sleep
         driver.quit();
 
     }
